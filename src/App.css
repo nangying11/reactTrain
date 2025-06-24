@@ -40,3 +40,20 @@
 .read-the-docs {
   color: #888;
 }
+body {
+  width: 300px;
+  position: relative;
+}
+
+.aside {
+  width: 100px;
+  height: 150px;
+  float: left;
+  background: #f66;
+}
+
+.main {
+  height: 200px;
+  background: #fcc;
+   overflow: hidden;
+}
